@@ -1,0 +1,6 @@
+edu\mum\cs\cs425\eRegister\services\StudentService.class
+edu\mum\cs\cs425\eRegister\models\Student.class
+edu\mum\cs\cs425\eRegister\repositoies\StudentRepository.class
+edu\mum\cs\cs425\eRegister\ERegistrarApplication.class
+edu\mum\cs\cs425\eRegister\controllers\StudentController.class
+edu\mum\cs\cs425\eRegister\ApplicationController.class
